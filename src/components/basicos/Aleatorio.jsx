@@ -7,6 +7,7 @@ export default function Aleatorio(props) {
 
   return (
     <div>
+      <h2>Valor Aleatório</h2>
       <p>
         numero aleatorio entre {min} e {max} é = {aleatorio}
       </p>
